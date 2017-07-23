@@ -21,5 +21,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("TAG","MAINACTIVITY131224444444");
 
 	    Log.e("TAG","MAINACTIVITY131223333");
+		
+		Log.e("TAG","MAINACTIVITY13122333355555");
     }
 }
