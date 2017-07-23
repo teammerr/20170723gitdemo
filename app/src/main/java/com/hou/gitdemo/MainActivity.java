@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("TAG","MAINACTIVITY");
         Log.e("TAG","MAINACTIVITY1 and MAINACTIVITY2");
   Log.e("TAG","MAINACTIVITY13");
+  
+  Log.e("TAG","MAINACTIVITY131");
     }
 }
