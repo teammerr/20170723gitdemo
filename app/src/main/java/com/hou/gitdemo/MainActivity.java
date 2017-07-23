@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e("TAG","MAINACTIVITY");
         Log.e("TAG","MAINACTIVITY1 and MAINACTIVITY2");
-
+  Log.e("TAG","MAINACTIVITY13");
     }
 }
