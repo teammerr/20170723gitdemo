@@ -5,4 +5,7 @@ package com.hou.gitdemo;
  */
 
 public class Utils {
+
+    private String time;
+
 }
